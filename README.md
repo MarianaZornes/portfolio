@@ -105,4 +105,21 @@ run on the public ARC-AGI training set.*
 
 ---
 
+## 🧪 HCI / UX Research — Household Calendar Redesign (Fall 2026, in progress)
+A full design-lifecycle research project: needfinding survey (n = 24), heuristic
+evaluation of Google Calendar's event flow, three low-fidelity prototypes tested
+with 16 interviewees, and a medium-fidelity combined design evaluated with paired
+t-tests against the originals. The problem: shared calendars remember *when*, but
+not *who* or *what's needed* — so the redesign gives every event an owner, an
+acknowledgement state, and a bring list that surfaces in the reminder.
+
+![Creating the event](hci/prototype-create.jpg)
+![The week view with handoff states](hci/prototype-week.jpg)
+![Handoff and reminder moments](hci/prototype-moments.jpg)
+
+*Final medium-fidelity prototype — owner field and bring list at creation; assigned /
+seen / accepted states visible in the week grid; the two notification moments that matter.*
+
+---
+
 📍 More: [github.com/MarianaZornes](https://github.com/MarianaZornes) · [LinkedIn](https://www.linkedin.com/in/mariana-zornes-98561256)
