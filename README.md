@@ -90,4 +90,19 @@ mapping · smooth shading · implicit surfaces.*
 
 ---
 
+## 🧠 Knowledge-Based AI — Agents (Fall 2026, in progress)
+A semester of classical AI agents in Python, no ML libraries: an **ARC-AGI agent**
+using generate-and-test over extract → reorient → recolor rule pipelines — every
+candidate rule must reproduce all training pairs exactly before it may predict —
+solving **79 of the 400 public ARC-AGI training tasks** (78 on the first prediction).
+Plus smaller agents: a semantic-network state-space solver, a means-ends block-world
+planner, a sentence-reading QA agent, case-based classification/diagnosis agents,
+and minimax game players. *(Code private.)*
+
+![ARC agent solving public tasks](kbai/arc-agent.png)
+*Three solved tasks — symmetry repair, mirror tiling, and learned color mapping —
+run on the public ARC-AGI training set.*
+
+---
+
 📍 More: [github.com/MarianaZornes](https://github.com/MarianaZornes) · [LinkedIn](https://www.linkedin.com/in/mariana-zornes-98561256)
