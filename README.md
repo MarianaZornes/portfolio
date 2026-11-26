@@ -122,6 +122,25 @@ seen / accepted states visible in the week grid; the two notification moments th
 
 ---
 
+## 📈 Machine Learning — Optimization & Uncertainty Study
+*"Optimization and Uncertainty on Forest Cover Type: Dissecting Training
+Interventions on a Fixed PyTorch Backbone"* — CS 7641, scored 101/100 after update.
+Four pre-registered hypotheses tested on a fixed PyTorch MLP (Covertype, 7-class,
+heavily imbalanced): randomized optimization (RHC / SA / GA) of the final layer,
+seven Adam-family optimizer ablations, and five regularizers — every claim
+evaluated across three seeds with full compute accounting. Headline finding: RO
+cut the validation objective 13–15% yet never improved test Macro-F1 — a clean
+demonstration of loss–decision dissociation. *(Report available on request.)*
+
+![Randomized optimization of the final layer](ml/randomized-optimization.png)
+![Optimizer ablations](ml/optimizer-ablations.png)
+
+*RHC / SA / GA search trajectories and the compute-for-transfer trade-off; seven
+optimizers under a fixed 12,000-update budget — momentum-family speed vs. Adam's
+self-limiting stability.*
+
+---
+
 ## ⚙️ Software Engineering — JobCompare6300 (4-person team)
 An Android app for entering, weighting, and ranking job offers, built across four
 deliverables in Georgia Tech's Software Development Process course: requirements
