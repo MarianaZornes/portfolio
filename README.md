@@ -14,6 +14,10 @@ deterministic validator decides which ones hold. 46 tests, 7-experiment reproduc
 harness; validator ablation: 0% of attacks land with validation on vs. 100% of
 worlds broken with it off.
 
+![Forging a new verb at runtime](loom/forge.png)
+*`hum` didn't exist until the player typed it — a rule is proposed, validated clause-by-clause
+against the live world, installed, and immediately re-binds to objects in other rooms.*
+
 ---
 
 ## 🤖 Killer Robot — 3D Unity Action Game (5-person team)
