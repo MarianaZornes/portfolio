@@ -73,4 +73,21 @@ with subtractive cuts. Scored 100/100. *(Code private.)*
 
 ---
 
+## 🎨 Computer Graphics — Software Renderers (Fall 2026, in progress)
+Renderers written from scratch in Java, no graphics APIs: a recursive ray tracer
+with reflection, refraction, soft shadows, depth of field, motion blur, and
+triangle-mesh rendering; a rasterization pipeline with flat and smooth shading;
+and implicit-surface modeling (blobby surfaces, sweeps, twists). *(Code private.)*
+
+| | |
+|---|---|
+| ![Refractive bunny in a mirror](graphics/raytrace-glass-bunny.jpg) | ![Mesh + reflective spheres](graphics/raytrace-bunny-spheres.jpg) |
+| ![Depth of field](graphics/raytrace-depth-of-field.jpg) | ![Textured + reflective scene](graphics/raytrace-gt-logo.jpg) |
+| ![Smooth-shaded Stanford bunny](graphics/shaded-bunny.jpg) | ![Implicit-surface linked tori](graphics/implicit-linked-tori.jpg) |
+
+*Ray-traced glass bunny and mirror · reflective spheres · depth of field · texture
+mapping · smooth shading · implicit surfaces.*
+
+---
+
 📍 More: [github.com/MarianaZornes](https://github.com/MarianaZornes) · [LinkedIn](https://www.linkedin.com/in/mariana-zornes-98561256)
