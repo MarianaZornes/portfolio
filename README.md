@@ -122,4 +122,22 @@ seen / accepted states visible in the week grid; the two notification moments th
 
 ---
 
+## ⚙️ Software Engineering — JobCompare6300 (4-person team)
+An Android app for entering, weighting, and ranking job offers, built across four
+deliverables in Georgia Tech's Software Development Process course: requirements
+and use cases, UML design, SQLite schema, JUnit tests, and a working APK, all on a
+shared Git workflow. Team grade 100/100; my solo Android project in the same
+course scored 94/100. *(Code private.)*
+
+![Use case model](sdp/use-case-model.png)
+
+| My UML design | Team's final design |
+|---|---|
+| ![My class design](sdp/my-class-design.png) | ![Team class design](sdp/team-class-design.png) |
+
+*Each member designed independently, then the team converged on a final architecture —
+use-case model and both stages shown.*
+
+---
+
 📍 More: [github.com/MarianaZornes](https://github.com/MarianaZornes) · [LinkedIn](https://www.linkedin.com/in/mariana-zornes-98561256)
